@@ -9,7 +9,7 @@
 
 - Printed models from [gcode/](gcode/)
 - Printed images from [graphics/](graphics/)
-- Fully assembled [Krtkus](https://github.com/swift502/Krtkus) PCB
+- Fully assembled Krtkus PCB
 - 5 M2 x 6mm screws
 - Rubber feet
 
