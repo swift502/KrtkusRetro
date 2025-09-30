@@ -19,9 +19,9 @@
 
 ## Build
 
-1. Screw the Krtkus PCB into the case base, it will bend to match the curvature of the supports
+1. Screw the Krtkus PCB into the case base, it has to bend to match the curvature of the supports
 2. Connect a USB cable and pull it through the hole in the back of the case
 3. Assemble the rest of the case, the pieces just fit into each other and lock in place
-4. Attach the graphics onto the case
+4. Glue the graphics onto the case
 5. Embed the folding feet and attach rubber pads to the bottom of the case
 6. Done!
