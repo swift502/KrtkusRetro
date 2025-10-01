@@ -1,7 +1,7 @@
 # Krtkus Retro Case
 
-[![](https://img.shields.io/badge/GitHub-Krtkus-blue?logo=github)](https://github.com/swift502/Krtkus)
 [![](https://img.shields.io/badge/Printables-Krtkus%20Retro%20Case-orange?logo=printables)](https://www.printables.com/model)
+[![](https://img.shields.io/badge/GitHub-Krtkus-blue?logo=github)](https://github.com/swift502/Krtkus)
 
 3D printed case build for the [Krtkus](https://github.com/swift502/Krtkus) keyboard inspired by IBM Model M. It's more of a decorative piece than a high-quality case, but it looks nice!
 
