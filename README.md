@@ -11,11 +11,11 @@
 - Printed images from [graphics/](graphics/)
 - Fully assembled Krtkus PCB
 - 5 M2 x 6mm screws
-- Rubber feet
 
 #### Optional:
 
 - An [Alps to MX adapter](https://www.printables.com/model/1424039) can be used to mount vintage Alps keycaps onto MX switches
+- Rubber feet
 
 ## Build
 
