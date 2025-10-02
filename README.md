@@ -7,14 +7,13 @@
 
 ## Parts
 
-- Printed models from [gcode/](gcode/)
-- Printed images from [graphics/](graphics/)
+- Printed files from [production/](production/)
 - Fully assembled Krtkus PCB
 - 5 M2 x 6mm screws
 
 #### Optional:
 
-- An [Alps to MX adapter](https://www.printables.com/model/1424039) can be used to mount vintage Alps keycaps onto MX switches
+- An [Alps to MX adapter](https://www.printables.com/model/1424039) to mount vintage Alps keycaps onto MX switches
 - Rubber feet
 
 ## Build
