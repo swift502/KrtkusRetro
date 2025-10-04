@@ -8,7 +8,7 @@
 ## Parts
 
 - Printed files from [production/](production/)
-- Fully assembled Krtkus PCB
+- [Modified](#krtkus-differences) build of the Krtkus PCB
 - 5 M2 x 6mm screws
 
 #### Optional:
@@ -24,3 +24,8 @@
 4. Glue the graphics onto the case
 5. Embed the folding feet and attach rubber pads to the bottom of the case
 6. Done!
+
+## Krtkus differences
+
+The only change required is soldering the Arduino from the bottom side of the PCB, so the top case cover can take the space usually occupied the module.
+
