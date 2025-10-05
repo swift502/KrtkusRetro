@@ -17,13 +17,14 @@ It's much more of a decorative piece than a high-quality case. The final build i
 
 - An [Alps to MX adapter](https://www.printables.com/model/1424039) to mount vintage Alps keycaps onto MX switches
 - Rubber feet
+- Coiled USB cable
 
 ## Build
 
 1. Screw the Krtkus PCB into the case base, it will bend to match the curvature of the support beams
 2. Connect a USB cable and pull it through the hole in the back of the case
 3. Assemble the rest of the case, pieces fit into each other and lock in place, no glue needed
-4. Glue the logo and indicator labels onto the case
+4. Stick the logo and indicator labels onto the case
 5. Done!
 
 ## Krtkus differences
