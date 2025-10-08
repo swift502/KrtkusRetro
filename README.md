@@ -43,7 +43,7 @@ Try to keep the pins flush with the top of the PCB. There's only about 3mm of cl
 
 ## Related projects
 
-There's a famous deskthority thread of a 40% buckling spring board that's similar in spirit, but much better executed. I was definitely partly inspired by it so I want to leave it here as an acknowledgement that I wasn't the first to do something like this. I recommend you check it out if you haven't!
+There's a famous deskthority thread of a 40% buckling spring board that I was definitely inspired by it so I want to leave it here as an acknowledgement that I wasn't the first to do something like this. I recommend you check it out if you haven't!
 
 https://deskthority.net/viewtopic.php?t=27238
 
