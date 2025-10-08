@@ -5,7 +5,7 @@
 
 3D printed case for the [Krtkus](https://github.com/swift502/Krtkus) board in the style of IBM Model M.
 
-Bends the PCB to give it some classic curvature. It's much more of a decorative piece than a high-quality case. The final build is essentially a mockup of something I'd love to see manufactured properly by people who know what they're doing.
+Bends the PCB to give it some curvature, though a lot less than the original Model M. It's much more of a decorative piece than a high-quality case. The final build is essentially a mockup of something I'd love to see manufactured properly by people who know what they're doing.
 
 ## Parts
 
