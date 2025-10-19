@@ -7,7 +7,11 @@
 
 Bends the PCB to give it some curvature, though a lot less than the original Model M. It's much more of a decorative piece than a high-quality case. The final build is essentially a mockup of something I'd love to see manufactured properly by people who know what they're doing.
 
-## Parts
+## Build guide
+
+![](images/build.webp)
+
+### Parts
 
 - Printed [gcodes](gcode/) and [decals](decals/)
 - Modified build of the Krtkus PCB ([see below](#krtkus-differences))
@@ -18,9 +22,7 @@ Bends the PCB to give it some curvature, though a lot less than the original Mod
 - Rubber feet
 - Coiled USB cable
 
-## Build guide
-
-![](images/build.webp)
+### Assembly
 
 1. Screw the assembled Krtkus PCB into the case base, it will bend to match the curvature of the support beams
 2. Connect a USB cable and pull it through the hole in the back of the case
@@ -28,7 +30,7 @@ Bends the PCB to give it some curvature, though a lot less than the original Mod
 4. Stick the logo and indicator labels onto the case
 5. Done!
 
-As for keycaps, original Model M keycaps can be used if you 3D printed a switch stem adapter. The IBM Model M122 would be especially suitable because it has a 1U enter and backspace keys, and a bunch of blanks you could use for the missing keys.
+As for keycaps, original Model M keycaps can be used if you 3D printed a switch stem adapter. The IBM Model M122 would be especially suitable because it has a 1U enter and backspace keys.
 
 Alternatively, there's plenty of brand new retro-style MX keycap sets out there which should also look great.
 
