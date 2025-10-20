@@ -13,7 +13,7 @@ Bends the PCB to give it some curvature, though a lot less than the original Mod
 
 ### Parts
 
-- Printed [gcodes](gcode/) and [decals](decals/)
+- Printed [3d_print](3d_print/) and [decals](decals/) folder contents
 - Modified build of the Krtkus PCB ([see below](#krtkus-differences))
 - 5 M2 x 6mm screws
 
