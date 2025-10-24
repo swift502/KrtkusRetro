@@ -1,31 +1,33 @@
-# Krtkus Retro Case
+![](images/1.webp)
 
-[![](https://img.shields.io/badge/Printables-Krtkus%20Retro%20Case-orange?logo=printables)](https://www.printables.com/model)
+[![](https://img.shields.io/badge/Printables-Krtkus%20Retro%20Case-orange?logo=printables)](https://www.printables.com/model/1457824)
 [![](https://img.shields.io/badge/GitHub-Krtkus-blue?logo=github)](https://github.com/swift502/Krtkus)
 
-3D printed case for the [Krtkus](https://github.com/swift502/Krtkus) board in the style of IBM Model M.
+# Krtkus Retro Case
 
-It bends the PCB to give it some curvature, though a lot less than the original Model M. The LED indicators are also only decorative. Overall the build is more of a concept for something I'd love to see manufactured properly by people who know what they're doing. But it was fun to design!
+3D printed case for the [Krtkus](https://github.com/swift502/Krtkus) keyboard in the style of IBM Model M. With foldable feet!
 
-## Build guide
+The inner construction bends the PCB to give it some curvature, though a lot less than the original Model M. The LED indicators are also only decorative.
 
-![](images/build.webp)
+Overall the build is more of a concept for something I'd love to see manufactured properly by people who know what they're doing.
 
-### Parts
+![](images/2.webp)
+
+## Parts
 
 - Printed [production](production/) files
 - Modified build of the Krtkus PCB ([see below](#krtkus-differences))
 - 5 M2 x 6mm screws
-
-#### Optional:
-
 - Rubber feet
-- Coiled USB cable
 
-### Assembly
+## Assembly
 
-1. Screw the assembled Krtkus PCB into the case base, it will bend to match the curvature of the support beams
-2. Connect a USB cable and pull it through the hole in the back of the case
+![](images/3.webp)
+
+1. Connect a USB cable to the assembled Krtkus PCB
+    - for a permanent USB cable, just pull the cable through the hole in the back of the case
+    - alternatively you can get a short male-to-female USB extension and use the female end as an external USB port
+2. Screw the assembled Krtkus PCB into the case base, it will bend to match the curvature of the support beams
 3. Assemble the rest of the case, pieces fit into each other and lock in place, no glue needed
 4. Stick the logo and indicator labels onto the case
 5. Done!
@@ -40,7 +42,7 @@ The only difference is that the Arduino has to be soldered from the bottom of th
 
 Try to keep the pins flush with the top of the PCB. There's only about 3mm of clearance between the top of the PCB and the case.
 
-![](images/build_mod.webp)
+![](images/4.webp)
 
 
 ## Related projects
