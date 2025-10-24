@@ -1,4 +1,4 @@
-![](images/1.webp)
+![](images/6.webp)
 
 [![](https://img.shields.io/badge/Printables-Krtkus%20Retro%20Case-orange?logo=printables)](https://www.printables.com/model/1457824)
 [![](https://img.shields.io/badge/GitHub-Krtkus-blue?logo=github)](https://github.com/swift502/Krtkus)
@@ -35,6 +35,8 @@ Overall the build is more of a concept for something I'd love to see manufacture
 As for keycaps, original Model M keycaps can be used if you 3D printed a switch stem adapter. The IBM Model M122 would be especially suitable because it has a 1U enter and backspace keys.
 
 Alternatively, there's plenty of brand new retro-style MX keycap sets out there which should also look great.
+
+![](images/1.webp)
 
 ## Krtkus differences
 
