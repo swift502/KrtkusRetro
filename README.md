@@ -5,11 +5,11 @@
 
 # Krtkus Retro Case
 
-3D printed case for the [Krtkus](https://github.com/swift502/Krtkus) keyboard in the style of IBM Model M. With foldable feet!
+3D printed case for the [Krtkus](https://github.com/swift502/Krtkus) keyboard in the style of IBM Model M.
 
 The inner construction bends the PCB to give it some curvature, though a lot less than the original Model M. The LED indicators are also only decorative.
 
-Overall the build is more of a concept for something I'd love to see manufactured properly by people who know what they're doing. But it's still pretty!
+Overall the build is more of a concept for something I'd love to see manufactured properly by people who know what they're doing. But it's still pretty, and has foldable feet!
 
 ![](images/2.webp)
 
