@@ -27,7 +27,7 @@ Overall the build is more of a concept for something I'd love to see manufacture
 1. Connect a USB cable to the assembled Krtkus PCB
     - for a permanent USB cable, just pull the cable through the hole in the back of the case
     - alternatively you can get a short male-to-female USB extension and use the female end as an external USB port
-2. Screw the assembled Krtkus PCB into the case base, it will bend to match the curvature of the support beams
+2. Screw the PCB into the case base, it will bend to match the curvature of the support beams
 3. Assemble the rest of the case, pieces fit into each other and lock in place, no glue needed
 4. Stick the logo and indicator labels onto the case
 5. Done!
