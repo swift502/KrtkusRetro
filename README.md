@@ -9,7 +9,7 @@
 
 The inner construction bends the PCB to give it some curvature, though a lot less than the original Model M. The LED indicators are also only decorative.
 
-Overall the build is more of a concept for something I'd love to see manufactured properly by people who know what they're doing. But it's still pretty, and has foldable feet!
+Overall the build is more of a concept for something I'd love to see manufactured properly by people who know what they're doing. But it's pretty. And it has foldable feet!
 
 ![](images/2.webp)
 
