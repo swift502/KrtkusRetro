@@ -9,7 +9,7 @@
 
 The inner construction bends the PCB to give it some curvature, though a lot less than the original Model M. The LED indicators are also only decorative.
 
-Overall the build is more of a concept for something I'd love to see manufactured properly by people who know what they're doing.
+Overall the build is more of a concept for something I'd love to see manufactured properly by people who know what they're doing. But it's still pretty!
 
 ![](images/2.webp)
 
@@ -47,7 +47,7 @@ Try to keep the pins flush with the top of the PCB. There's only about 3mm of cl
 
 ## Related projects
 
-There's a famous deskthority thread of a 40% buckling spring board that I was definitely inspired by it so I want to leave it here as an acknowledgement that I wasn't the first to do something like this. I recommend you check it out if you haven't!
+There's a legendary deskthority thread of a 40% buckling spring board that was much better made so I want to leave it here as an acknowledgement that I wasn't the first to do something like this. I recommend you check it out if you haven't!
 
 https://deskthority.net/viewtopic.php?t=27238
 
