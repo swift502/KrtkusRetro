@@ -18,6 +18,9 @@ Overall the build is more of a concept for something I'd love to see manufacture
 - Printed [production](production/) files
 - Modified build of the [Krtkus](https://github.com/swift502/Krtkus) PCB ([see below](#krtkus-differences))
 - 5 M2 x 6mm screws
+
+#### Optional
+
 - Rubber feet
 
 ## Assembly
