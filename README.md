@@ -1,7 +1,7 @@
 ![](images/1.webp)
 
-[![](https://img.shields.io/badge/Printables-Krtkus%20Retro%20Case-orange?logo=printables)](https://www.printables.com/model/1457824)
 [![](https://img.shields.io/badge/GitHub-Krtkus-blue?logo=github)](https://github.com/swift502/Krtkus)
+[![](https://img.shields.io/badge/Printables-Krtkus%20Retro%20Case-orange?logo=printables)](https://www.printables.com/model/1457824)
 
 # Krtkus Retro Case
 
