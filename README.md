@@ -41,6 +41,8 @@ Alternatively, there's plenty of brand new retro-style MX keycap sets out there 
 
 ![](images/6.webp)
 
+<div align="center"><i>Prusament PLA Vanilla White, Dell AT101W keycaps</i></div>
+
 ## Krtkus differences
 
 The only difference from usual Krtkus assembly is that the Arduino has to be soldered from the bottom of the PCB, so the case can go over the top. Keep the orientation exactly the same so the pinout matches, just attach it from the bottom.
@@ -48,7 +50,6 @@ The only difference from usual Krtkus assembly is that the Arduino has to be sol
 Try to keep the pins flush with the top of the PCB. There's only about 3mm of clearance between the top of the PCB and the case.
 
 ![](images/4.webp)
-
 
 ## Related projects
 
