@@ -13,6 +13,8 @@ Overall the build is more of a concept for something I'd love to see manufacture
 
 ![](images/2.webp)
 
+<div align="center"><i>Prusament PLA Vanilla White, Dell AT101W keycaps</i></div>
+
 ## Parts
 
 - Printed [production](production/) files
@@ -40,8 +42,6 @@ As for keycaps, original Model M keycaps can be used if you 3D printed a switch 
 Alternatively, there's plenty of brand new retro-style MX keycap sets out there which should also look great.
 
 ![](images/6.webp)
-
-<div align="center"><i>Prusament PLA Vanilla White, Dell AT101W keycaps</i></div>
 
 ## Krtkus differences
 
