@@ -34,6 +34,8 @@ Overall the build is more of a concept for something I'd love to see manufacture
 3. Assemble the rest of the case, pieces fit into each other and lock in place, no glue needed
 4. Stick the logo and indicator labels onto the case
 
+Done!
+
 ![](images/3.webp)
 
 ## Keycaps
