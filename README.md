@@ -37,9 +37,7 @@ Overall the build is more of a concept for something I'd love to see manufacture
 4. Stick the logo and indicator labels onto the case
 5. Done!
 
-As for keycaps, original Model M keycaps can be used if you 3D printed a switch stem adapter. The IBM Model M122 would be especially suitable because it has a 1U enter and backspace keys.
-
-Regular retro-style MX keycaps will probably also require a stem adapter to raise the height, because Krtkus currently only exists in low-profile Choc V1 and KS-33 variants.
+As for keycaps, original Model M keycaps can be used if you 3D printed a switch stem adapter. The IBM Model M122 would be especially suitable because it has a 1U enter and backspace keys. Regular retro-style MX keycaps will probably also require a stem adapter to raise the height, because Krtkus currently only exists in low-profile Choc V1 and KS-33 variants.
 
 To natively support other switches, a new versions of the Krtkus PCB would have to be created, which should be straight forward but will still require substantial work in Kicad.
 
