@@ -27,19 +27,22 @@ Overall the build is more of a concept for something I'd love to see manufacture
 
 ## Assembly
 
-![](images/3.webp)
-
 1. Connect a USB cable to the assembled Krtkus PCB
     - for a permanent USB cable, just pull the cable through the hole in the back of the case
     - alternatively you can get a short male-to-female USB extension and use the female end as an external USB port
 2. Screw the PCB into the case base, it will bend to match the curvature of the support beams
 3. Assemble the rest of the case, pieces fit into each other and lock in place, no glue needed
 4. Stick the logo and indicator labels onto the case
-5. Done!
 
-As for keycaps, original Model M keycaps can be used if you 3D printed a switch stem adapter. The IBM Model M122 would be especially suitable because it has a 1U enter and backspace keys. Regular retro-style MX keycaps will probably also require a stem adapter to raise the height, because Krtkus currently only exists in low-profile Choc V1 and KS-33 variants.
+![](images/3.webp)
 
-To natively support other switches, a new versions of the Krtkus PCB would have to be created, which should be straight forward but will still require substantial work in Kicad.
+## Keycaps
+
+Original Model M keycaps might be possible to use with a 3D printed switch stem adapter. My build on the pictures uses Alps keycaps from a Dell AT101W with a 3D printed Alps-to-MX stem adapter.
+
+The IBM Model M122 would be especially suitable because it has a 1U enter and backspace keys. Regular retro-style MX keycaps should also work but will probably still need a stem adapter to raise the height, because Krtkus currently only exists in low-profile Choc V1 and KS-33 variants.
+
+To natively support other switches, a new versions of the Krtkus PCB would have to be created, which usually takes few days of work in Kicad.
 
 ![](images/6.webp)
 
