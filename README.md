@@ -40,11 +40,11 @@ Done!
 
 ## Keycaps
 
-Original Model M keycaps might be possible to use with a 3D printed switch stem adapter. My build on the pictures uses Alps keycaps from a Dell AT101W with a 3D printed Alps-to-MX stem adapter.
+As it stands, the Krtkus PCB only supports low-prifile Choc V1 or KS-33 switches. That means it natively only supports low profile keycaps. However, my build uses the Dell AT101W keycaps thanks to a 3D printed Alps-to-MX switch stem adapter.
 
-The IBM Model M122 would be especially suitable because it has a 1U enter and backspace keys. Regular retro-style MX keycaps should also work but will probably still need a stem adapter to raise the height, because Krtkus currently only exists in low-profile Choc V1 and KS-33 variants.
+Original Model M keycaps should hopefully also be possible to use with an adapter. The IBM Model M122 would be especially suitable because it has a 1U enter and backspace keys. Regular retro-style MX keycaps will definitely work but still require some stem height compensation.
 
-To natively support other switches, a new versions of the Krtkus PCB would have to be created, which usually takes few days of work in Kicad.
+To natively support other switches, a new versions of the Krtkus PCB would have to be created, which I'm currently not planning for, but it wouldn't be terribly difficult.
 
 ![](images/6.webp)
 
